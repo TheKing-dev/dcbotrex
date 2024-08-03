@@ -15,7 +15,7 @@ const commands = [
       </div>
         <p className="text-xl font-medium text-white">
           <i className="fal fa-cogs text-amber-400 mr-2" />
-         Bot Commands
+         Bot Komutları
         </p>
         <p className="text-white text-sm text-opacity-50 mb-5">
         Botrex'in komutlarına göz atmaya ne dersin?
