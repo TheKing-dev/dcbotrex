@@ -20,42 +20,42 @@ export default function AwardApp({ Component, pageProps }) {
   const NavItems = [
     {
       link: true,
-      name: "Home",
+      name: "Evvv",
       icon: "fal fa-home",
       activeIcon: "fa fa-home",
       href: "/",
     },
     {
       link: true,
-      name: "Commands",
+      name: "Komutlar",
       icon: "fa fa-list-alt",
       activeIcon: "fa fa-list-alt",
       href: "/commands",
     },
     {
       link: true,
-      name: "Support",
+      name: "Destek",
       icon: "fab fa-discord",
       activeIcon: "fab fa-discord",
-      href: "https://discord.gg/ZcDprCrFTn",
+      href: "https://discord.gg/EtQHzyaGz2",
     },
     {
       link: true,
-      name: "Add Bot",
+      name: "Botu Ekle",
       icon: "fal fa-robot",
       activeIcon: "fab fa-robot",
-      href: "https://discord.com/api/oauth2/authorize?client_id=774043716797071371&permissions=277028620608&scope=bot%20applications.commands",
+      href: "https://discord.com/oauth2/authorize?client_id=990709947509649468&permissions=8&integration_type=0&scope=bot",
     },
        {
       link: true,
-      name: "Vote",
+      name: "Oy Ver",
       icon: "fa fa-plus",
       activeIcon: "fa fa-plus",
       href: "https://top.gg/bot/774043716797071371/vote",
     },
     {
       link: true,
-      name: "Partners",
+      name: "Ortaklar",
       icon: "fal fa-handshake",
       activeIcon: "fa fa-handshake",
       href: "/partners",
@@ -71,7 +71,7 @@ export default function AwardApp({ Component, pageProps }) {
       />
       <Head>
         <title>
-          MusicMaker
+          Botrex
         </title>
       </Head>
       <main className="transition-all duration-200 z-10 absolute inset-0 px-5 h-screen max-w-7xl w-full mx-auto">
