@@ -6,7 +6,7 @@ export default function Tos() {
   <div className="animateHeader text-white text-opacity-40 mt-5">
 <p>⊳ Every discord server can use the MusicMaker bot for free, it is completely prohibited to sell or market for a fee.</p>
 <div className="py-3"></div>
-<p>⊳ You cannot use bot commands to harm the bot.</p>
+<h2>⊳ You cannot use bot commands to harm the bot.</h2>
 <div className="py-3"></div>
 <p>⊳ You may not use open source codes to harm other servers.</p>
 <div className="py-3"></div>
