@@ -35,7 +35,7 @@ export default function Partners() {
                             <div className="flex flex-col justify-center text-white rounded">
             <a href="https://discord.gg/EtQHzyaGz2">
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
-                            <img className="rounded-full h-32 w-32" src="https://cdn.discordapp.com/avatars/990709947509649468/7cceee4b7cb0bb697a5828477bf368a1.png?size=256" />
+                            <img className="rounded-full h-32 w-32" src="https://cdn.discordapp.com/avatars/972564795846983750/1fa58b82346166119aea44b91ebf2397.png?size=256" />
                             <div>
                                 <h1 className="leading-none text-3xl font-bold text-white">Ortaklık Anlaşması</h1>        
                                 <div className="flex items-center mt-1">
