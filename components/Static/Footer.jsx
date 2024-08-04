@@ -48,7 +48,7 @@ export default function Footer() {
                                 </a>
                             </div>
                             <div>
-                                <a href="https://discord.com/oauth2/authorize?client_id=990709947509649468&permissions=8&integration_type=0&scope=bot" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
+                                <a href="https://discord.com/oauth2/authorize?client_id=972564795846983750&permissions=8&integration_type=0&scope=bot" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     Botu davet et
                                 </a>
                             </div>
