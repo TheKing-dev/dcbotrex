@@ -2,7 +2,7 @@ export default function Privacy() {
     return (
         <div>
             <h1 className="font-semibold text-3xl text-white/75">Botrex Gizlilik Politikası</h1>
-            <p className="text-sm text-white/30 mb-4">Son Güncelleme: 20/05/2022 🆕️</p>
+            <p className="text-sm text-white/30 mb-4">Son Güncelleme: 04/08/2024 🆕️</p>
             <div className="animateHeader text-white text-opacity-40 mt-5">
                 <h2 className="font-bold text-xl mb-2">Veri Toplama</h2>
                 <p>⊳ Botrex, kullanıcıların kişisel verilerini toplamaz.</p>
