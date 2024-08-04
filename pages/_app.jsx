@@ -51,7 +51,7 @@ export default function AwardApp({ Component, pageProps }) {
       name: "Oy Ver",
       icon: "fa fa-plus",
       activeIcon: "fa fa-plus",
-      href: "https://top.gg/bot/774043716797071371/vote",
+      href: "https://botrex.vercel.app/",
     },
     {
       link: true,
