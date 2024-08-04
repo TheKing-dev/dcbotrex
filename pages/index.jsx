@@ -17,7 +17,7 @@ export default function Index() {
 	  </p>
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
-            <Link href={"https://discord.com/oauth2/authorize?client_id=990709947509649468&permissions=8&integration_type=0&scope=bot"}>
+            <Link href={"https://discord.com/oauth2/authorize?client_id=972564795846983750&permissions=8&integration_type=0&scope=bot"}>
               <a
                 className={
                   "flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " 
@@ -47,7 +47,7 @@ Botrex'e Oy Verin</a>
           <div className="col-span-4">
             <p className="text-white text-4xl font-bold" dangerouslySetInnerHTML={{ __html:"Botrex" }} />
             <p className="text-white text-md font-medium text-gray-500/75" dangerouslySetInnerHTML={{ __html: "Botrex ile eğlenmeye ne dersin?" }}/>
-            <a href="https://discord.com/oauth2/authorize?client_id=990709947509649468&permissions=8&integration_type=0&scope=bot" className={"mt-10 flex items-center px-4 justify-center gap-x-2 shadow-lg shadow-amber-600/20 cursor-pointer rounded-xl py-4 font-medium bg-gradient-to-r from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white"}>
+            <a href="https://discord.com/oauth2/authorize?client_id=972564795846983750&permissions=8&integration_type=0&scope=bot" className={"mt-10 flex items-center px-4 justify-center gap-x-2 shadow-lg shadow-amber-600/20 cursor-pointer rounded-xl py-4 font-medium bg-gradient-to-r from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white"}>
               <i className="fab fa-discord mr-2" />Botrex'i davet edin
             </a>
           </div>
@@ -86,11 +86,11 @@ Botrex'e Oy Verin</a>
       <div className="flex flex-row w-full h-auto lg:h-56 my-14 lg:my-40 bg-gradient-to-br lg:px-30 from-neutral-900/90 flex items-center justify-start to-neutral-900/50 rounded-lg p-1 shadow-md">
               <>
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
-                  <img src="https://cdn.discordapp.com/avatars/990709947509649468/7cceee4b7cb0bb697a5828477bf368a1.png"  width="512" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
+                  <img src="https://cdn.discordapp.com/avatars/972564795846983750/1fa58b82346166119aea44b91ebf2397.png"  width="512" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
                   <p className="text-3xl text-white font-semibold">Senin en iyi botun!</p>
                   <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Güncel ve gelişmiş Botrex ile eğlen!</p>
                 </div>
-                <img src="https://cdn.discordapp.com/avatars/990709947509649468/7cceee4b7cb0bb697a5828477bf368a1.png?size=256" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
+                <img src="https://cdn.discordapp.com/avatars/972564795846983750/1fa58b82346166119aea44b91ebf2397.png?size=256" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
       
         </div>
