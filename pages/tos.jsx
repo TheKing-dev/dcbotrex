@@ -2,7 +2,7 @@ export default function Tos() {
   return (
     <div>
       <h2 className="mt-4 text-white font-bold text-3xl">Botrex Kullanım Şartları</h2>
-      <p className="text-sm text-white/30 mb-1">Son Güncelleme: 20/05/2022 🆕️</p>
+      <p className="text-sm text-white/30 mb-1">Son Güncelleme: 04/08/2024 🆕️</p>
       <div className="animateHeader text-white text-opacity-40 mt-5">
         
         <h3 className="font-bold text-xl mb-2">Hizmetin Kabulü</h3>
